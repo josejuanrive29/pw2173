@@ -1,0 +1,47 @@
+
+body 
+{
+	border : 1px solid red;
+	width: 1024px;
+}
+header{
+	text-align: center;
+	border: 1px solid blue;
+}
+header img{
+	float: right;
+	margin-right: 15px;
+	margin-top: -60px;
+	width: 90px;
+}
+header nav{
+	margin-top: 60px;
+}
+header nav ul li{
+	background: blue;
+	color: white;
+	margin: 0px 10px 0px 0px;
+	padding: 5px 8px 5px 8px;
+	display: inline-block;
+	border-radius: 5px;
+	width: 80px;
+
+	box-shadow: 3px 3px black;
+}
+header nav ul li:hover{
+	background: orange;
+	color: black;
+}
+
+section article{
+	width: 32%;
+	display: inline-block;
+	vertical-align: top;
+	border: 1px solid tomato;
+}
+footer{
+	text-align: center;
+	background: blue;
+	color: white;
+	margin-top: 10px;
+}
