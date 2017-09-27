@@ -43,3 +43,23 @@ form input[ type="button"]{
 	margin-top: 15px;
 	width: 98%;
 }
+#seccion02 article {
+	display: inline-block;
+	vertical-align: top;
+	width: 32.8%;
+}
+#seccion02 article input[type="submit"]{
+	background: white;
+	border-radius: 5px;
+	color: blue;
+	margin-left: 130px;
+}
+.unaseccion, .otraseccion{
+	font-weight: bold;
+}
+.unaseccion{
+	font-size: 4.5em;
+}
+.otraseccion{
+	font-size: 2.5em;
+}
