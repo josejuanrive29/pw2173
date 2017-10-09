@@ -1,0 +1,8 @@
+body{
+	margin: 0 auto;
+	width: 1024px;
+	border: 1px solid black;
+}
+.derecha{
+	float: right;
+}
