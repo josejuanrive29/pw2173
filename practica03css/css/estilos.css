@@ -2,7 +2,22 @@ body{
 	margin: 0 auto;
 	width: 1024px;
 	border: 1px solid black;
+	max-width: 1024px;
+	min-width: 1024px;
+	font-size: 16px;
+
 }
 .derecha{
 	float: right;
+	margin-right: 10px;
+}
+
+header nav ul li{
+	display: inline-block;
+	margin-right: 15px;
+	font-size: 1em;
+}
+header nav{
+	width: 90%;
+	margin: 0 auto;
 }
